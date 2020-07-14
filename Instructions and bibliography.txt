@@ -1,0 +1,39 @@
+Kindly use 1920*1080 px resolution
+
+
+Instructions:-
+
+files folder has all the web pages other than the home page (index.html)
+images folder has all the images and icons used in the site.
+index.html is the main webpage.
+style.css is the external css file.
+
+
+Completed questions for Assignment #1:-
+
+Headline, content is clearly provided and well formatted and styled.
+An internal link is set up with Contact Us page (Support/Contact Us).
+Another external link redirects the user to email me.
+An external link to the Winnipeg Public Library is also set up in the Contact Us page.
+All 3 types of CSS are used wherever necessary.
+Footer holds the link that redirects the user to top of the current page.
+Spam-proof email is added in Contact us page.
+
+
+Completed questions for Assignment #1:-
+
+1. Index page is divided  into 5 sections :- Header, Nav, Section, Aside, Footer.
+Divs under section have content for sections under main section.
+2. Go to Sitemap from footer of any page to see lists used.
+3. Go to Support > Centres to see table.
+
+
+Contents Used:-
+
+All images are used from https://www.flickr.com/ and are available for commercial used without any liscence.
+All icons are used from https://www.iconfinder.com/ and are available for commercial use without any liscence.
+Sample text is generated from https://www.lipsum.com/ and is available for commercial use.
+All other content and the logo are made by me.
+
+-Meharban Singh
+-3105995
